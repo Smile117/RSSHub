@@ -26,6 +26,9 @@
     "/423down/:category/:type": [
         "Fatpandac"
     ],
+    "/50forum/": [
+        "sddiky"
+    ],
     "/8world/:category?": [
         "nczitzk"
     ],
@@ -67,6 +70,9 @@
     ],
     "/atcoder/contest/:language?/:rated?/:category?/:keyword?": [
         "nczitzk"
+    ],
+    "/audiobar/latest": [
+        "zxzhuty"
     ],
     "/bandcamp/live": [
         "nczitzk"
@@ -312,6 +318,14 @@
     ],
     "/ezone/:category?": [
         "nczitzk"
+    ],
+    "/ff14/global/:lang/:type?": [
+        "chengyuhui"
+    ],
+    "/ff14/zh/:type?": [
+        "Kiotlin",
+        "ZeroClad",
+        "15x15G"
     ],
     "/filmdeepfocus/:category?": [
         "nczitzk"
@@ -781,6 +795,10 @@
     "/nodejs/blog/:language?": [
         "nczitzk"
     ],
+    "/nogizaka46/news": [
+        "crispgm",
+        "Fatpandac"
+    ],
     "/now/news/:category?/:id?": [
         "nczitzk"
     ],
@@ -850,6 +868,12 @@
     ],
     "/rfi/news": [
         "nczitzk"
+    ],
+    "/rsshub/routes/:lang?": [
+        "DIYgod"
+    ],
+    "/rsshub/rsshub/sponsors": [
+        "DIYgod"
     ],
     "/ruancan/ruancan": [
         "nczitzk"
@@ -1047,6 +1071,9 @@
     "/ustb/yjsy/news/wenfa": [
         "DA1Y1"
     ],
+    "/verfghbw/press/:keyword?": [
+        "quinn-dev"
+    ],
     "/wallhaven/search/:filter?/:needDetails?": [
         "nczitzk",
         "Fatpandac"
@@ -1150,9 +1177,6 @@
     "/zjgtjy/:type?": [
         "Fatpandac"
     ],
-    "/rsshub/rss": [],
-    "/rsshub/routes": [],
-    "/rsshub/sponsors": [],
     "/1draw": [],
     "/quicker/qa": [],
     "/quicker/update": [],
@@ -2100,8 +2124,6 @@
     "/arknights/news": [],
     "/arknights/japan": [],
     "/siren/news": [],
-    "/ff14/ff14_zh/:type": [],
-    "/ff14/ff14_global/:lang/:type": [],
     "/xuetangx/course/:cid/:type": [],
     "/xuetangx/course/list/:mode/:credential/:status/:type?": [],
     "/wikihow/index": [],
@@ -2120,7 +2142,6 @@
     "/yidoutang/mtest": [],
     "/yidoutang/case/:type": [],
     "/kaiyan/index": [],
-    "/nogizaka46/news": [],
     "/keyakizaka46/news": [],
     "/hinatazaka46/news": [],
     "/keyakizaka46/blog": [],
@@ -2941,7 +2962,6 @@
     "/liyuan-forums/threads/forum/:forum_id": [],
     "/liyuan-forums/threads/topic/:topic_id": [],
     "/liyuan-forums/threads/user/:user_id": [],
-    "/verfghbw/press/:keyword?": [],
     "/topbook/overview/:id?": [],
     "/topbook/today": [],
     "/melon/chart/:category?": [],
